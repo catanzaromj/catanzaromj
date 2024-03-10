@@ -22,6 +22,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#12](https://github.com/scikit-tda/scikit-tda/issues/12#issuecomment-1987411020) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+2. 🔒 Closed issue [#12](https://github.com/scikit-tda/scikit-tda/issues/12) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+3. 🗣 Commented on [#31](https://github.com/scikit-tda/scikit-tda/pull/31#issuecomment-1987301692) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+4. 💪 Opened PR [#31](https://github.com/scikit-tda/scikit-tda/pull/31) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+5. 🎉 Merged PR [#76](https://github.com/scikit-tda/persim/pull/76) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+<!--END_SECTION:activity-->
 
 <!--
 **catanzaromj/catanzaromj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
