@@ -4,6 +4,16 @@ I am a Senior Scientist at Geometric Data Analytics, Inc. Most of my work involv
 performing mathematical research and writing software to prototype and support
 research. 
 
+I have been helping maintain some [scikit-tda](docs.scikit-tda.org) packages lately. 
+They are pinned below. Please check them out!
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/michael-catanzaro-a8335547">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+
 ### Tools I work with
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -21,16 +31,10 @@ research.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=catanzaromj&theme=github)
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=catanzaromj&theme=github)
 
 ### Recent github activity
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com/scikit-tda/scikit-tda/issues/12#issuecomment-1987411020) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
 2. 🔒 Closed issue [#12](https://github.com/scikit-tda/scikit-tda/issues/12) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
@@ -38,20 +42,3 @@ research.
 4. 💪 Opened PR [#31](https://github.com/scikit-tda/scikit-tda/pull/31) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
 5. 🎉 Merged PR [#76](https://github.com/scikit-tda/persim/pull/76) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
 <!--END_SECTION:activity-->
-
-<!--
-**catanzaromj/catanzaromj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
