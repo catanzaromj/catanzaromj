@@ -4,7 +4,7 @@ I am a Senior Scientist at Geometric Data Analytics, Inc. Most of my work involv
 performing mathematical research and writing software to prototype and support
 research. 
 
-I have been helping maintain some [scikit-tda](docs.scikit-tda.org) packages lately. 
+I have been helping maintain some [scikit-tda](https://docs.scikit-tda.org) packages lately. 
 They are pinned below. Please check them out!
 
 <div id="badges">
