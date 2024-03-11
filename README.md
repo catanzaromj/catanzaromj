@@ -21,7 +21,7 @@ research.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username={catanzaromj}&theme={github})
+![](https://github-readme-activity-graph.vercel.app/graph?username=catanzaromj&theme=github)
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -29,11 +29,8 @@ research.
   </a>
 </div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/catanzaromj/catanzaromj/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
 
-
+### Recent github activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com/scikit-tda/scikit-tda/issues/12#issuecomment-1987411020) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
 2. 🔒 Closed issue [#12](https://github.com/scikit-tda/scikit-tda/issues/12) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
