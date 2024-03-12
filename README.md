@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/scikit-tda/tadasets/pull/14) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-2. 🗣 Commented on [#12](https://github.com/scikit-tda/scikit-tda/issues/12#issuecomment-1987411020) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-3. 🔒 Closed issue [#12](https://github.com/scikit-tda/scikit-tda/issues/12) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-4. 🗣 Commented on [#31](https://github.com/scikit-tda/scikit-tda/pull/31#issuecomment-1987301692) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-5. 💪 Opened PR [#31](https://github.com/scikit-tda/scikit-tda/pull/31) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+1. 🗣 Commented on [#249](https://github.com/scikit-tda/kepler-mapper/issues/249#issuecomment-1991867188) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
+2. 🗣 Commented on [#252](https://github.com/scikit-tda/kepler-mapper/issues/252#issuecomment-1991864647) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
+3. 💪 Opened PR [#14](https://github.com/scikit-tda/tadasets/pull/14) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+4. 🗣 Commented on [#12](https://github.com/scikit-tda/scikit-tda/issues/12#issuecomment-1987411020) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+5. 🔒 Closed issue [#12](https://github.com/scikit-tda/scikit-tda/issues/12) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
 <!--END_SECTION:activity-->
