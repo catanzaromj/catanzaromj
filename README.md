@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.1](https://github.com/scikit-tda/tadasets/releases/tag/v0.2.1) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-2. 🎉 Merged PR [#17](https://github.com/scikit-tda/tadasets/pull/17) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-3. 💪 Opened PR [#17](https://github.com/scikit-tda/tadasets/pull/17) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-4. 🚀 Published release [v0.2.0](https://github.com/scikit-tda/tadasets/releases/tag/v0.2.0) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-5. 🎉 Merged PR [#16](https://github.com/scikit-tda/tadasets/pull/16) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+1. 🗣 Commented on [#20](https://github.com/scikit-tda/scikit-tda/pull/20#issuecomment-2002476922) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+2. ❌ Closed PR [#20](https://github.com/scikit-tda/scikit-tda/pull/20) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+3. 🚀 Published release [v0.2.1](https://github.com/scikit-tda/tadasets/releases/tag/v0.2.1) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+4. 🎉 Merged PR [#17](https://github.com/scikit-tda/tadasets/pull/17) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+5. 💪 Opened PR [#17](https://github.com/scikit-tda/tadasets/pull/17) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
 <!--END_SECTION:activity-->
