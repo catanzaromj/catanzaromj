@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/scikit-tda/scikit-tda/releases/tag/v1.1.0) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-2. 🎉 Merged PR [#31](https://github.com/scikit-tda/scikit-tda/pull/31) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-3. 🗣 Commented on [#20](https://github.com/scikit-tda/scikit-tda/pull/20#issuecomment-2002476922) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-4. ❌ Closed PR [#20](https://github.com/scikit-tda/scikit-tda/pull/20) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-5. 🚀 Published release [v0.2.1](https://github.com/scikit-tda/tadasets/releases/tag/v0.2.1) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+1. 🚀 Published release [v0.6.10](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.10) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
+2. 🚀 Published release [v1.1.0](https://github.com/scikit-tda/scikit-tda/releases/tag/v1.1.0) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+3. 🎉 Merged PR [#31](https://github.com/scikit-tda/scikit-tda/pull/31) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+4. 🗣 Commented on [#20](https://github.com/scikit-tda/scikit-tda/pull/20#issuecomment-2002476922) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+5. ❌ Closed PR [#20](https://github.com/scikit-tda/scikit-tda/pull/20) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
 <!--END_SECTION:activity-->
