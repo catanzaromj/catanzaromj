@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/scikit-tda/persim/pull/79#issuecomment-2005107775) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
-2. 🚀 Published release [v0.6.11](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.11) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
-3. 🚀 Published release [v0.6.10](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.10) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
-4. 🚀 Published release [v1.1.0](https://github.com/scikit-tda/scikit-tda/releases/tag/v1.1.0) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-5. 🎉 Merged PR [#31](https://github.com/scikit-tda/scikit-tda/pull/31) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+1. 🗣 Commented on [#79](https://github.com/scikit-tda/persim/pull/79#issuecomment-2011075497) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+2. 🗣 Commented on [#79](https://github.com/scikit-tda/persim/pull/79#issuecomment-2005107775) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+3. 🚀 Published release [v0.6.11](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.11) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
+4. 🚀 Published release [v0.6.10](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.10) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
+5. 🚀 Published release [v1.1.0](https://github.com/scikit-tda/scikit-tda/releases/tag/v1.1.0) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
 <!--END_SECTION:activity-->
