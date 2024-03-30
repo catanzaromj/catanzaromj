@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9178](https://github.com/quarto-dev/quarto-cli/issues/9178) in [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)
-2. 🗣 Commented on [#5416](https://github.com/quarto-dev/quarto-cli/issues/5416#issuecomment-2015067277) in [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)
-3. 🗣 Commented on [#79](https://github.com/scikit-tda/persim/pull/79#issuecomment-2011075497) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
-4. 🗣 Commented on [#79](https://github.com/scikit-tda/persim/pull/79#issuecomment-2005107775) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
-5. 🚀 Published release [v0.6.11](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.11) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
+1. 🗣 Commented on [#32](https://github.com/scikit-tda/scikit-tda/issues/32#issuecomment-2028028633) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+2. ❗ Opened issue [#9178](https://github.com/quarto-dev/quarto-cli/issues/9178) in [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)
+3. 🗣 Commented on [#5416](https://github.com/quarto-dev/quarto-cli/issues/5416#issuecomment-2015067277) in [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)
+4. 🗣 Commented on [#79](https://github.com/scikit-tda/persim/pull/79#issuecomment-2011075497) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+5. 🗣 Commented on [#79](https://github.com/scikit-tda/persim/pull/79#issuecomment-2005107775) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
 <!--END_SECTION:activity-->
