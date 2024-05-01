@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#340](https://github.com/machow/quartodoc/issues/340) in [machow/quartodoc](https://github.com/machow/quartodoc)
-2. 🔒 Closed issue [#151](https://github.com/scikit-tda/kepler-mapper/issues/151) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
-3. 🗣 Commented on [#32](https://github.com/scikit-tda/scikit-tda/issues/32#issuecomment-2028028633) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-4. ❗ Opened issue [#9178](https://github.com/quarto-dev/quarto-cli/issues/9178) in [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)
-5. 🗣 Commented on [#5416](https://github.com/quarto-dev/quarto-cli/issues/5416#issuecomment-2015067277) in [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)
+1. 🎉 Merged PR [#2](https://github.com/catanzaromj/catanzaromj.github.io/pull/2) in [catanzaromj/catanzaromj.github.io](https://github.com/catanzaromj/catanzaromj.github.io)
+2. ❗ Opened issue [#340](https://github.com/machow/quartodoc/issues/340) in [machow/quartodoc](https://github.com/machow/quartodoc)
+3. 🔒 Closed issue [#151](https://github.com/scikit-tda/kepler-mapper/issues/151) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
+4. 🗣 Commented on [#32](https://github.com/scikit-tda/scikit-tda/issues/32#issuecomment-2028028633) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+5. ❗ Opened issue [#9178](https://github.com/quarto-dev/quarto-cli/issues/9178) in [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)
 <!--END_SECTION:activity-->
