@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/scikit-tda/ripser.py/issues/83#issuecomment-2166479553) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-2. 🎉 Merged PR [#163](https://github.com/scikit-tda/ripser.py/pull/163) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-3. 🎉 Merged PR [#2](https://github.com/catanzaromj/catanzaromj.github.io/pull/2) in [catanzaromj/catanzaromj.github.io](https://github.com/catanzaromj/catanzaromj.github.io)
-4. ❗ Opened issue [#340](https://github.com/machow/quartodoc/issues/340) in [machow/quartodoc](https://github.com/machow/quartodoc)
-5. 🔒 Closed issue [#151](https://github.com/scikit-tda/kepler-mapper/issues/151) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
+1. 🚀 Published release [v0.6.15](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.15) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
+2. 🚀 Published release [trial](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.14) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
+3. 🚀 Published release [v0.6.13](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.13) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
+4. 🚀 Published release [v0.6.12](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.12) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
+5. 🗣 Commented on [#83](https://github.com/scikit-tda/ripser.py/issues/83#issuecomment-2166479553) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 <!--END_SECTION:activity-->
