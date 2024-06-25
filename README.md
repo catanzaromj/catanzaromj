@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.6.16](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.16) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
-2. 🚀 Published release [v0.6.15](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.15) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
-3. 🚀 Published release [trial](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.14) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
-4. 🚀 Published release [v0.6.13](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.13) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
-5. 🚀 Published release [v0.6.12](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.12) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
+1. 🗣 Commented on [#165](https://github.com/scikit-tda/ripser.py/issues/165#issuecomment-2188822261) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+2. 🚀 Published release [v0.6.16](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.16) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
+3. 🚀 Published release [v0.6.15](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.15) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
+4. 🚀 Published release [trial](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.14) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
+5. 🚀 Published release [v0.6.13](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.13) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
 <!--END_SECTION:activity-->
