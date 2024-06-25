@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/scikit-tda/tadasets/pull/18) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-2. 🗣 Commented on [#165](https://github.com/scikit-tda/ripser.py/issues/165#issuecomment-2189176851) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-3. 💪 Opened PR [#166](https://github.com/scikit-tda/ripser.py/pull/166) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-4. 🎉 Merged PR [#164](https://github.com/scikit-tda/ripser.py/pull/164) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-5. 🚀 Published release [v0.6.18](https://github.com/catanzaromj/ripser.py/releases/tag/v0.6.18) in [catanzaromj/ripser.py](https://github.com/catanzaromj/ripser.py)
+1. 🗣 Commented on [#166](https://github.com/scikit-tda/ripser.py/pull/166#issuecomment-2189882781) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+2. 💪 Opened PR [#18](https://github.com/scikit-tda/tadasets/pull/18) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+3. 🗣 Commented on [#165](https://github.com/scikit-tda/ripser.py/issues/165#issuecomment-2189176851) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+4. 💪 Opened PR [#166](https://github.com/scikit-tda/ripser.py/pull/166) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+5. 🎉 Merged PR [#164](https://github.com/scikit-tda/ripser.py/pull/164) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 <!--END_SECTION:activity-->
