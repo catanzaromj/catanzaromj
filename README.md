@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#260](https://github.com/scikit-tda/kepler-mapper/pull/260) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
-2. 🔒 Closed issue [#252](https://github.com/scikit-tda/kepler-mapper/issues/252) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
-3. 🔒 Closed issue [#247](https://github.com/scikit-tda/kepler-mapper/issues/247) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
-4. 🎉 Merged PR [#253](https://github.com/scikit-tda/kepler-mapper/pull/253) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
-5. 🎉 Merged PR [#166](https://github.com/scikit-tda/ripser.py/pull/166) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+1. 💪 Opened PR [#261](https://github.com/scikit-tda/kepler-mapper/pull/261) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
+2. 🗣 Commented on [#254](https://github.com/scikit-tda/kepler-mapper/pull/254#issuecomment-2211754417) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
+3. ❌ Closed PR [#254](https://github.com/scikit-tda/kepler-mapper/pull/254) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
+4. 🔒 Closed issue [#249](https://github.com/scikit-tda/kepler-mapper/issues/249) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
+5. 🎉 Merged PR [#260](https://github.com/scikit-tda/kepler-mapper/pull/260) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
 <!--END_SECTION:activity-->
