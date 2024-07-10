@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/jmbuhr/otter.nvim/issues/161#issuecomment-2218642749) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
-2. 🗣 Commented on [#161](https://github.com/jmbuhr/otter.nvim/issues/161#issuecomment-2218474110) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
-3. 🔒 Closed issue [#160](https://github.com/jmbuhr/otter.nvim/issues/160) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
-4. ❗ Opened issue [#161](https://github.com/jmbuhr/otter.nvim/issues/161) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
-5. 🗣 Commented on [#160](https://github.com/jmbuhr/otter.nvim/issues/160#issuecomment-2218367664) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
+1. 🗣 Commented on [#161](https://github.com/jmbuhr/otter.nvim/issues/161#issuecomment-2218697582) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
+2. 🗣 Commented on [#161](https://github.com/jmbuhr/otter.nvim/issues/161#issuecomment-2218673472) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
+3. 🗣 Commented on [#161](https://github.com/jmbuhr/otter.nvim/issues/161#issuecomment-2218642749) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
+4. 🗣 Commented on [#161](https://github.com/jmbuhr/otter.nvim/issues/161#issuecomment-2218474110) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
+5. 🔒 Closed issue [#160](https://github.com/jmbuhr/otter.nvim/issues/160) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
 <!--END_SECTION:activity-->
