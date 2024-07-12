@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/jmbuhr/otter.nvim/issues/161#issuecomment-2218803656) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
-2. 🗣 Commented on [#161](https://github.com/jmbuhr/otter.nvim/issues/161#issuecomment-2218764201) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
-3. 🗣 Commented on [#161](https://github.com/jmbuhr/otter.nvim/issues/161#issuecomment-2218763171) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
-4. 🗣 Commented on [#161](https://github.com/jmbuhr/otter.nvim/issues/161#issuecomment-2218746953) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
-5. 🗣 Commented on [#161](https://github.com/jmbuhr/otter.nvim/issues/161#issuecomment-2218715408) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
+1. 🔒 Closed issue [#165](https://github.com/scikit-tda/ripser.py/issues/165) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+2. 🔒 Closed issue [#149](https://github.com/scikit-tda/ripser.py/issues/149) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+3. 🎉 Merged PR [#167](https://github.com/scikit-tda/ripser.py/pull/167) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+4. 🗣 Commented on [#161](https://github.com/jmbuhr/otter.nvim/issues/161#issuecomment-2218803656) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
+5. 🗣 Commented on [#161](https://github.com/jmbuhr/otter.nvim/issues/161#issuecomment-2218764201) in [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim)
 <!--END_SECTION:activity-->
