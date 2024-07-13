@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/scikit-tda/scikit-tda/pull/36) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-2. 🗣 Commented on [#17](https://github.com/scikit-tda/scikit-tda/issues/17#issuecomment-2226885416) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-3. 🔒 Closed issue [#17](https://github.com/scikit-tda/scikit-tda/issues/17) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-4. 🗣 Commented on [#10](https://github.com/scikit-tda/scikit-tda/issues/10#issuecomment-2226884825) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-5. 🔒 Closed issue [#10](https://github.com/scikit-tda/scikit-tda/issues/10) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+1. 🗣 Commented on [#15](https://github.com/scikit-tda/scikit-tda/issues/15#issuecomment-2226891075) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+2. 🔒 Closed issue [#15](https://github.com/scikit-tda/scikit-tda/issues/15) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+3. 💪 Opened PR [#36](https://github.com/scikit-tda/scikit-tda/pull/36) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+4. 🗣 Commented on [#17](https://github.com/scikit-tda/scikit-tda/issues/17#issuecomment-2226885416) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+5. 🔒 Closed issue [#17](https://github.com/scikit-tda/scikit-tda/issues/17) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
 <!--END_SECTION:activity-->
