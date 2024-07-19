@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/scikit-tda/persim/pull/82#issuecomment-2238976076) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
-2. 🗣 Commented on [#81](https://github.com/scikit-tda/persim/issues/81#issuecomment-2237145286) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
-3. 🗣 Commented on [#15](https://github.com/scikit-tda/scikit-tda/issues/15#issuecomment-2226891075) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-4. 🔒 Closed issue [#15](https://github.com/scikit-tda/scikit-tda/issues/15) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-5. 💪 Opened PR [#36](https://github.com/scikit-tda/scikit-tda/pull/36) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+1. 🔒 Closed issue [#81](https://github.com/scikit-tda/persim/issues/81) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+2. 🔒 Closed issue [#81](https://github.com/scikit-tda/persim/issues/81) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+3. 🎉 Merged PR [#82](https://github.com/scikit-tda/persim/pull/82) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+4. 🗣 Commented on [#82](https://github.com/scikit-tda/persim/pull/82#issuecomment-2239047912) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+5. 🗣 Commented on [#82](https://github.com/scikit-tda/persim/pull/82#issuecomment-2238976076) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
 <!--END_SECTION:activity-->
