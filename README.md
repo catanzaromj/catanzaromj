@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.7](https://github.com/scikit-tda/persim/releases/tag/v0.3.7) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+1. 🎉 Merged PR [#36](https://github.com/scikit-tda/scikit-tda/pull/36) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
 2. 🚀 Published release [v0.3.7](https://github.com/scikit-tda/persim/releases/tag/v0.3.7) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
-3. 🔒 Closed issue [#81](https://github.com/scikit-tda/persim/issues/81) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+3. 🚀 Published release [v0.3.7](https://github.com/scikit-tda/persim/releases/tag/v0.3.7) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
 4. 🔒 Closed issue [#81](https://github.com/scikit-tda/persim/issues/81) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
-5. 🎉 Merged PR [#82](https://github.com/scikit-tda/persim/pull/82) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+5. 🔒 Closed issue [#81](https://github.com/scikit-tda/persim/issues/81) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
 <!--END_SECTION:activity-->
