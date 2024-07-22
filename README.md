@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#29](https://github.com/scikit-learn-contrib/scikit-dimension/issues/29) in [scikit-learn-contrib/scikit-dimension](https://github.com/scikit-learn-contrib/scikit-dimension)
-2. 🗣 Commented on [#141](https://github.com/scikit-tda/ripser.py/issues/141#issuecomment-2241154684) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-3. 🔒 Closed issue [#141](https://github.com/scikit-tda/ripser.py/issues/141) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-4. 💪 Opened PR [#173](https://github.com/scikit-tda/ripser.py/pull/173) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-5. 🎉 Merged PR [#152](https://github.com/scikit-tda/ripser.py/pull/152) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+1. 🗣 Commented on [#29](https://github.com/scikit-learn-contrib/scikit-dimension/issues/29#issuecomment-2243041394) in [scikit-learn-contrib/scikit-dimension](https://github.com/scikit-learn-contrib/scikit-dimension)
+2. ❗ Opened issue [#29](https://github.com/scikit-learn-contrib/scikit-dimension/issues/29) in [scikit-learn-contrib/scikit-dimension](https://github.com/scikit-learn-contrib/scikit-dimension)
+3. 🗣 Commented on [#141](https://github.com/scikit-tda/ripser.py/issues/141#issuecomment-2241154684) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+4. 🔒 Closed issue [#141](https://github.com/scikit-tda/ripser.py/issues/141) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+5. 💪 Opened PR [#173](https://github.com/scikit-tda/ripser.py/pull/173) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 <!--END_SECTION:activity-->
