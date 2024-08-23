@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#444](https://github.com/Farama-Foundation/Minigrid/issues/444#issuecomment-2303021050) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
-2. 🗣 Commented on [#175](https://github.com/scikit-tda/ripser.py/issues/175#issuecomment-2298900227) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-3. 🗣 Commented on [#175](https://github.com/scikit-tda/ripser.py/issues/175#issuecomment-2297442161) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-4. 🔒 Closed issue [#83](https://github.com/scikit-tda/ripser.py/issues/83) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-5. 🎉 Merged PR [#173](https://github.com/scikit-tda/ripser.py/pull/173) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+1. 💪 Opened PR [#445](https://github.com/Farama-Foundation/Minigrid/pull/445) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
+2. 🗣 Commented on [#444](https://github.com/Farama-Foundation/Minigrid/issues/444#issuecomment-2303021050) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
+3. 🗣 Commented on [#175](https://github.com/scikit-tda/ripser.py/issues/175#issuecomment-2298900227) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+4. 🗣 Commented on [#175](https://github.com/scikit-tda/ripser.py/issues/175#issuecomment-2297442161) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+5. 🔒 Closed issue [#83](https://github.com/scikit-tda/ripser.py/issues/83) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 <!--END_SECTION:activity-->
