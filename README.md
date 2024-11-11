@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#177](https://github.com/scikit-tda/ripser.py/pull/177) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-2. ❗ Opened issue [#1433](https://github.com/airspeed-velocity/asv/issues/1433) in [airspeed-velocity/asv](https://github.com/airspeed-velocity/asv)
-3. 🗣 Commented on [#1416](https://github.com/airspeed-velocity/asv/issues/1416#issuecomment-2349950993) in [airspeed-velocity/asv](https://github.com/airspeed-velocity/asv)
-4. 🗣 Commented on [#18](https://github.com/scikit-tda/DREiMac/pull/18#issuecomment-2336812725) in [scikit-tda/DREiMac](https://github.com/scikit-tda/DREiMac)
-5. 💪 Opened PR [#18](https://github.com/scikit-tda/DREiMac/pull/18) in [scikit-tda/DREiMac](https://github.com/scikit-tda/DREiMac)
+1. 🎉 Merged PR [#179](https://github.com/scikit-tda/ripser.py/pull/179) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+2. 🎉 Merged PR [#177](https://github.com/scikit-tda/ripser.py/pull/177) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+3. ❗ Opened issue [#1433](https://github.com/airspeed-velocity/asv/issues/1433) in [airspeed-velocity/asv](https://github.com/airspeed-velocity/asv)
+4. 🗣 Commented on [#1416](https://github.com/airspeed-velocity/asv/issues/1416#issuecomment-2349950993) in [airspeed-velocity/asv](https://github.com/airspeed-velocity/asv)
+5. 🗣 Commented on [#18](https://github.com/scikit-tda/DREiMac/pull/18#issuecomment-2336812725) in [scikit-tda/DREiMac](https://github.com/scikit-tda/DREiMac)
 <!--END_SECTION:activity-->
