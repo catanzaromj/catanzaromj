@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#179](https://github.com/scikit-tda/ripser.py/pull/179) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-2. 🎉 Merged PR [#177](https://github.com/scikit-tda/ripser.py/pull/177) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-3. ❗ Opened issue [#1433](https://github.com/airspeed-velocity/asv/issues/1433) in [airspeed-velocity/asv](https://github.com/airspeed-velocity/asv)
-4. 🗣 Commented on [#1416](https://github.com/airspeed-velocity/asv/issues/1416#issuecomment-2349950993) in [airspeed-velocity/asv](https://github.com/airspeed-velocity/asv)
+1. 🗣 Commented on [#182](https://github.com/scikit-tda/ripser.py/issues/182#issuecomment-2557945257) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+2. 💪 Opened PR [#6861](https://github.com/conda-forge/conda-forge-pinning-feedstock/pull/6861) in [conda-forge/conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock)
+3. 🎉 Merged PR [#179](https://github.com/scikit-tda/ripser.py/pull/179) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+4. 🎉 Merged PR [#177](https://github.com/scikit-tda/ripser.py/pull/177) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 5. 🗣 Commented on [#18](https://github.com/scikit-tda/DREiMac/pull/18#issuecomment-2336812725) in [scikit-tda/DREiMac](https://github.com/scikit-tda/DREiMac)
 <!--END_SECTION:activity-->
