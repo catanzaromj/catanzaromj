@@ -36,9 +36,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#182](https://github.com/scikit-tda/ripser.py/issues/182) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-2. 🗣 Commented on [#182](https://github.com/scikit-tda/ripser.py/issues/182#issuecomment-2564389734) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-3. 🗣 Commented on [#182](https://github.com/scikit-tda/ripser.py/issues/182#issuecomment-2558095623) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-4. 🗣 Commented on [#182](https://github.com/scikit-tda/ripser.py/issues/182#issuecomment-2557945257) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-5. 💪 Opened PR [#6861](https://github.com/conda-forge/conda-forge-pinning-feedstock/pull/6861) in [conda-forge/conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock)
+1. 🗣 Commented on [#1433](https://github.com/airspeed-velocity/asv/issues/1433#issuecomment-2603256774) in [airspeed-velocity/asv](https://github.com/airspeed-velocity/asv)
+2. 🔒 Closed issue [#182](https://github.com/scikit-tda/ripser.py/issues/182) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+3. 🗣 Commented on [#182](https://github.com/scikit-tda/ripser.py/issues/182#issuecomment-2564389734) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+4. 🗣 Commented on [#182](https://github.com/scikit-tda/ripser.py/issues/182#issuecomment-2558095623) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+5. 🗣 Commented on [#182](https://github.com/scikit-tda/ripser.py/issues/182#issuecomment-2557945257) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 <!--END_SECTION:activity-->
