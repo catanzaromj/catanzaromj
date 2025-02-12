@@ -31,8 +31,6 @@ They are pinned below. Please check them out!
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=catanzaromj&theme=github)
-
 ### Recent github activity
 
 <!--START_SECTION:activity-->
