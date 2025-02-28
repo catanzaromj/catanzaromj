@@ -34,9 +34,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#183](https://github.com/scikit-tda/ripser.py/pull/183) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-2. 🎉 Merged PR [#180](https://github.com/scikit-tda/ripser.py/pull/180) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-3. 🗣 Commented on [#140](https://github.com/scikit-tda/ripser.py/issues/140#issuecomment-2679460479) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-4. ❗ Opened issue [#35](https://github.com/scikit-learn-contrib/scikit-dimension/issues/35) in [scikit-learn-contrib/scikit-dimension](https://github.com/scikit-learn-contrib/scikit-dimension)
-5. 🗣 Commented on [#182](https://github.com/scikit-tda/ripser.py/issues/182#issuecomment-2557945257) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+1. 💪 Opened PR [#187](https://github.com/scikit-tda/ripser.py/pull/187) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+2. 🗣 Commented on [#186](https://github.com/scikit-tda/ripser.py/issues/186#issuecomment-2687818572) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+3. 🗣 Commented on [#186](https://github.com/scikit-tda/ripser.py/issues/186#issuecomment-2687817580) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+4. ❌ Closed PR [#183](https://github.com/scikit-tda/ripser.py/pull/183) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+5. 🎉 Merged PR [#180](https://github.com/scikit-tda/ripser.py/pull/180) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 <!--END_SECTION:activity-->
