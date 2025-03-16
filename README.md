@@ -34,9 +34,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#263](https://github.com/scikit-tda/kepler-mapper/issues/263#issuecomment-2726690122) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
-2. 💪 Opened PR [#19](https://github.com/scikit-tda/tadasets/pull/19) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-3. 🚀 Published release [v0.3.8](https://github.com/scikit-tda/persim/releases/tag/v0.3.8) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
-4. 🎉 Merged PR [#86](https://github.com/scikit-tda/persim/pull/86) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
-5. 🎉 Merged PR [#85](https://github.com/scikit-tda/persim/pull/85) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+1. 🎉 Merged PR [#19](https://github.com/scikit-tda/tadasets/pull/19) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+2. 💪 Opened PR [#20](https://github.com/scikit-tda/tadasets/pull/20) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+3. 🗣 Commented on [#263](https://github.com/scikit-tda/kepler-mapper/issues/263#issuecomment-2726690122) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
+4. 💪 Opened PR [#19](https://github.com/scikit-tda/tadasets/pull/19) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+5. 🚀 Published release [v0.3.8](https://github.com/scikit-tda/persim/releases/tag/v0.3.8) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
 <!--END_SECTION:activity-->
