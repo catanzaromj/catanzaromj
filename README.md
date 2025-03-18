@@ -34,9 +34,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/scientific-python/spin/issues/269#issuecomment-2730960054) in [scientific-python/spin](https://github.com/scientific-python/spin)
-2. 💪 Opened PR [#192](https://github.com/scikit-tda/ripser.py/pull/192) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-3. ❗ Opened issue [#191](https://github.com/scikit-tda/ripser.py/issues/191) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-4. 🗣 Commented on [#12](https://github.com/scikit-tda/tadasets/issues/12#issuecomment-2727173063) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-5. 🎉 Merged PR [#19](https://github.com/scikit-tda/tadasets/pull/19) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+1. 🎉 Merged PR [#193](https://github.com/scikit-tda/ripser.py/pull/193) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+2. 🗣 Commented on [#269](https://github.com/scientific-python/spin/issues/269#issuecomment-2730960054) in [scientific-python/spin](https://github.com/scientific-python/spin)
+3. 💪 Opened PR [#192](https://github.com/scikit-tda/ripser.py/pull/192) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+4. ❗ Opened issue [#191](https://github.com/scikit-tda/ripser.py/issues/191) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+5. 🗣 Commented on [#12](https://github.com/scikit-tda/tadasets/issues/12#issuecomment-2727173063) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
 <!--END_SECTION:activity-->
