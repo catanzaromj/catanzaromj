@@ -34,9 +34,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/scientific-python/spin/issues/269#issuecomment-2732726190) in [scientific-python/spin](https://github.com/scientific-python/spin)
-2. 🎉 Merged PR [#193](https://github.com/scikit-tda/ripser.py/pull/193) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-3. 🗣 Commented on [#269](https://github.com/scientific-python/spin/issues/269#issuecomment-2730960054) in [scientific-python/spin](https://github.com/scientific-python/spin)
-4. 💪 Opened PR [#192](https://github.com/scikit-tda/ripser.py/pull/192) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-5. ❗ Opened issue [#191](https://github.com/scikit-tda/ripser.py/issues/191) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+1. 🗣 Commented on [#269](https://github.com/scientific-python/spin/issues/269#issuecomment-2738259973) in [scientific-python/spin](https://github.com/scientific-python/spin)
+2. 🎉 Merged PR [#20](https://github.com/scikit-tda/tadasets/pull/20) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+3. 🗣 Commented on [#269](https://github.com/scientific-python/spin/issues/269#issuecomment-2732726190) in [scientific-python/spin](https://github.com/scientific-python/spin)
+4. 🎉 Merged PR [#193](https://github.com/scikit-tda/ripser.py/pull/193) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+5. 🗣 Commented on [#269](https://github.com/scientific-python/spin/issues/269#issuecomment-2730960054) in [scientific-python/spin](https://github.com/scientific-python/spin)
 <!--END_SECTION:activity-->
