@@ -34,9 +34,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/scikit-tda/tadasets/pull/21#issuecomment-2740538531) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-2. 💪 Opened PR [#21](https://github.com/scikit-tda/tadasets/pull/21) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-3. 🗣 Commented on [#273](https://github.com/scientific-python/spin/pull/273#issuecomment-2738308928) in [scientific-python/spin](https://github.com/scientific-python/spin)
-4. 🗣 Commented on [#269](https://github.com/scientific-python/spin/issues/269#issuecomment-2738259973) in [scientific-python/spin](https://github.com/scientific-python/spin)
-5. 🎉 Merged PR [#20](https://github.com/scikit-tda/tadasets/pull/20) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+1. ❗ Opened issue [#54](https://github.com/Ripser/ripser/issues/54) in [Ripser/ripser](https://github.com/Ripser/ripser)
+2. 🗣 Commented on [#21](https://github.com/scikit-tda/tadasets/pull/21#issuecomment-2740538531) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+3. 💪 Opened PR [#21](https://github.com/scikit-tda/tadasets/pull/21) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+4. 🗣 Commented on [#273](https://github.com/scientific-python/spin/pull/273#issuecomment-2738308928) in [scientific-python/spin](https://github.com/scientific-python/spin)
+5. 🗣 Commented on [#269](https://github.com/scientific-python/spin/issues/269#issuecomment-2738259973) in [scientific-python/spin](https://github.com/scientific-python/spin)
 <!--END_SECTION:activity-->
