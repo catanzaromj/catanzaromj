@@ -34,9 +34,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#54](https://github.com/Ripser/ripser/issues/54) in [Ripser/ripser](https://github.com/Ripser/ripser)
-2. 🗣 Commented on [#21](https://github.com/scikit-tda/tadasets/pull/21#issuecomment-2740538531) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-3. 💪 Opened PR [#21](https://github.com/scikit-tda/tadasets/pull/21) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-4. 🗣 Commented on [#273](https://github.com/scientific-python/spin/pull/273#issuecomment-2738308928) in [scientific-python/spin](https://github.com/scientific-python/spin)
-5. 🗣 Commented on [#269](https://github.com/scientific-python/spin/issues/269#issuecomment-2738259973) in [scientific-python/spin](https://github.com/scientific-python/spin)
+1. ❗ Opened issue [#33](https://github.com/scikit-tda/cechmate/issues/33) in [scikit-tda/cechmate](https://github.com/scikit-tda/cechmate)
+2. ❗ Opened issue [#32](https://github.com/scikit-tda/cechmate/issues/32) in [scikit-tda/cechmate](https://github.com/scikit-tda/cechmate)
+3. ❗ Opened issue [#31](https://github.com/scikit-tda/cechmate/issues/31) in [scikit-tda/cechmate](https://github.com/scikit-tda/cechmate)
+4. ❗ Opened issue [#30](https://github.com/scikit-tda/cechmate/issues/30) in [scikit-tda/cechmate](https://github.com/scikit-tda/cechmate)
+5. ❗ Opened issue [#29](https://github.com/scikit-tda/cechmate/issues/29) in [scikit-tda/cechmate](https://github.com/scikit-tda/cechmate)
 <!--END_SECTION:activity-->
