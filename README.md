@@ -34,9 +34,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/scikit-tda/tadasets/pull/21) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-2. 🗣 Commented on [#39](https://github.com/scikit-tda/cechmate/pull/39#issuecomment-2748327158) in [scikit-tda/cechmate](https://github.com/scikit-tda/cechmate)
-3. 🔒 Closed issue [#30](https://github.com/scikit-tda/cechmate/issues/30) in [scikit-tda/cechmate](https://github.com/scikit-tda/cechmate)
-4. 🔒 Closed issue [#31](https://github.com/scikit-tda/cechmate/issues/31) in [scikit-tda/cechmate](https://github.com/scikit-tda/cechmate)
-5. 🔒 Closed issue [#32](https://github.com/scikit-tda/cechmate/issues/32) in [scikit-tda/cechmate](https://github.com/scikit-tda/cechmate)
+1. 💪 Opened PR [#22](https://github.com/scikit-tda/tadasets/pull/22) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+2. 🎉 Merged PR [#21](https://github.com/scikit-tda/tadasets/pull/21) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+3. 🗣 Commented on [#39](https://github.com/scikit-tda/cechmate/pull/39#issuecomment-2748327158) in [scikit-tda/cechmate](https://github.com/scikit-tda/cechmate)
+4. 🔒 Closed issue [#30](https://github.com/scikit-tda/cechmate/issues/30) in [scikit-tda/cechmate](https://github.com/scikit-tda/cechmate)
+5. 🔒 Closed issue [#31](https://github.com/scikit-tda/cechmate/issues/31) in [scikit-tda/cechmate](https://github.com/scikit-tda/cechmate)
 <!--END_SECTION:activity-->
