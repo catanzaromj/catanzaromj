@@ -34,9 +34,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#204](https://github.com/scikit-tda/ripser.py/pull/204) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-2. 🗣 Commented on [#26](https://github.com/scikit-tda/tadasets/issues/26#issuecomment-3361491790) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-3. 💪 Opened PR [#91](https://github.com/scikit-tda/persim/pull/91) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
-4. 🗣 Commented on [#26](https://github.com/scikit-tda/tadasets/issues/26#issuecomment-3341969607) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-5. 🎉 Merged PR [#22](https://github.com/scikit-tda/tadasets/pull/22) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+1. 🔒 Closed issue [#26](https://github.com/scikit-tda/tadasets/issues/26) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+2. 🎉 Merged PR [#28](https://github.com/scikit-tda/tadasets/pull/28) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+3. 🎉 Merged PR [#204](https://github.com/scikit-tda/ripser.py/pull/204) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+4. 🗣 Commented on [#26](https://github.com/scikit-tda/tadasets/issues/26#issuecomment-3361491790) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+5. 💪 Opened PR [#91](https://github.com/scikit-tda/persim/pull/91) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
 <!--END_SECTION:activity-->
