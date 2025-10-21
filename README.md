@@ -34,9 +34,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.2](https://github.com/scikit-tda/tadasets/releases/tag/v0.2.2) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-2. 🔒 Closed issue [#26](https://github.com/scikit-tda/tadasets/issues/26) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-3. 🗣 Commented on [#28](https://github.com/scikit-tda/tadasets/pull/28#issuecomment-3397195731) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-4. 💪 Opened PR [#42](undefined) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-5. ❌ Assigned PR [#42](undefined) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+1. 🔒 Closed issue [#7](https://github.com/scikit-tda/scikit-tda/issues/7) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+2. 🚀 Published release [v0.2.2](https://github.com/scikit-tda/tadasets/releases/tag/v0.2.2) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+3. 🔒 Closed issue [#26](https://github.com/scikit-tda/tadasets/issues/26) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+4. 🗣 Commented on [#28](https://github.com/scikit-tda/tadasets/pull/28#issuecomment-3397195731) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+5. 💪 Opened PR [#42](undefined) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
 <!--END_SECTION:activity-->
