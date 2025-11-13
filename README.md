@@ -34,9 +34,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](undefined) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-2. 🗣 Commented on [#30](https://github.com/scikit-tda/tadasets/pull/30#issuecomment-3456000841) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
-3. 🗣 Commented on [#40](https://github.com/scikit-tda/scikit-tda/pull/40#issuecomment-3455955068) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-4. 🗣 Commented on [#41](https://github.com/scikit-tda/scikit-tda/pull/41#issuecomment-3455950991) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-5. 🗣 Commented on [#43](https://github.com/scikit-tda/scikit-tda/pull/43#issuecomment-3455906939) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+1.  Labeled issue [#208](https://github.com/scikit-tda/ripser.py/issues/208) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+2.  Assigned issue [#208](https://github.com/scikit-tda/ripser.py/issues/208) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+3. 🗣 Commented on [#208](https://github.com/scikit-tda/ripser.py/issues/208#issuecomment-3527880883) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+4. 💪 Opened PR [#32](undefined) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+5. 🗣 Commented on [#30](https://github.com/scikit-tda/tadasets/pull/30#issuecomment-3456000841) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
 <!--END_SECTION:activity-->
