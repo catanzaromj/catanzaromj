@@ -34,9 +34,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/scikit-tda/ripser.py/issues/209#issuecomment-3534719243) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-2.  Assigned issue [#209](https://github.com/scikit-tda/ripser.py/issues/209) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-3.  Labeled issue [#208](https://github.com/scikit-tda/ripser.py/issues/208) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-4.  Assigned issue [#208](https://github.com/scikit-tda/ripser.py/issues/208) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-5. 🗣 Commented on [#208](https://github.com/scikit-tda/ripser.py/issues/208#issuecomment-3527880883) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+1.  Labeled issue [#209](https://github.com/scikit-tda/ripser.py/issues/209) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+2. 🗣 Commented on [#209](https://github.com/scikit-tda/ripser.py/issues/209#issuecomment-3536495988) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+3. 🗣 Commented on [#209](https://github.com/scikit-tda/ripser.py/issues/209#issuecomment-3534719243) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+4.  Assigned issue [#209](https://github.com/scikit-tda/ripser.py/issues/209) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+5.  Labeled issue [#208](https://github.com/scikit-tda/ripser.py/issues/208) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 <!--END_SECTION:activity-->
