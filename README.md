@@ -34,9 +34,9 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/conda-forge/ripser-feedstock/issues/35#issuecomment-3568019544) in [conda-forge/ripser-feedstock](https://github.com/conda-forge/ripser-feedstock)
-2.  Labeled issue [#35](https://github.com/conda-forge/ripser-feedstock/issues/35) in [conda-forge/ripser-feedstock](https://github.com/conda-forge/ripser-feedstock)
-3. ❗ Opened issue [#35](https://github.com/conda-forge/ripser-feedstock/issues/35) in [conda-forge/ripser-feedstock](https://github.com/conda-forge/ripser-feedstock)
-4. ❌ Assigned PR [#210](undefined) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-5. 💪 Opened PR [#210](undefined) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+1. 🗣 Commented on [#35](https://github.com/conda-forge/ripser-feedstock/issues/35#issuecomment-3581060723) in [conda-forge/ripser-feedstock](https://github.com/conda-forge/ripser-feedstock)
+2. 🗣 Commented on [#35](https://github.com/conda-forge/ripser-feedstock/issues/35#issuecomment-3568019544) in [conda-forge/ripser-feedstock](https://github.com/conda-forge/ripser-feedstock)
+3.  Labeled issue [#35](https://github.com/conda-forge/ripser-feedstock/issues/35) in [conda-forge/ripser-feedstock](https://github.com/conda-forge/ripser-feedstock)
+4. ❗ Opened issue [#35](https://github.com/conda-forge/ripser-feedstock/issues/35) in [conda-forge/ripser-feedstock](https://github.com/conda-forge/ripser-feedstock)
+5. ❌ Assigned PR [#210](undefined) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 <!--END_SECTION:activity-->
