@@ -34,8 +34,8 @@ They are pinned below. Please check them out!
 ### Recent github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/scikit-tda/ripser.py/issues/209#issuecomment-3786738299) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-2. 🔒 Closed issue [#209](https://github.com/scikit-tda/ripser.py/issues/209) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+1. ❌ Closed PR [#219](https://github.com/scikit-tda/ripser.py/pull/219) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+2. 🗣 Commented on [#219](https://github.com/scikit-tda/ripser.py/pull/219#issuecomment-3987347040) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 3. 🗣 Commented on [#209](https://github.com/scikit-tda/ripser.py/issues/209#issuecomment-3786722290) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 4. ❗ Opened issue [#6](https://github.com/Journey-Cloud/self-hosted-boilerplate/issues/6) in [Journey-Cloud/self-hosted-boilerplate](https://github.com/Journey-Cloud/self-hosted-boilerplate)
 5. 🎉 Merged PR [#91](https://github.com/scikit-tda/persim/pull/91) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
