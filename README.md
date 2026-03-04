@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57A143&center=true&width=500&lines=Senior+Scientist+%7C+ML+Engineer;Topological+Data+Analysis;Mechanistic+Interpretability+%7C+AI+Safety)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57A143&center=true&width=500&lines=Senior+Scientist+%7C+ML+Engineer;Topological+Data+Analysis+%7C+Mathematician;Mechanistic+Interpretability+%7C+AI+Safety)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-57A143?style=for-the-badge&logo=github&logoColor=white)](https://catanzaromj.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-catanzaro-a8335547)
@@ -41,15 +41,6 @@ I help maintain several [scikit-tda](https://docs.scikit-tda.org) packages — s
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=catanzaromj&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=catanzaromj&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
