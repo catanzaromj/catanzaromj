@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-57A143?style=for-the-badge&logo=github&logoColor=white)](https://catanzaromj.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-catanzaro-a8335547)
-![Profile Views](https://komarev.com/ghpvc/?username=catanzaromj&color=57A143&style=for-the-badge)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=catanzaromj&color=57A143&style=for-the-badge) -->
 
 </div>
 
