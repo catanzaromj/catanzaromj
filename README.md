@@ -60,9 +60,9 @@ I help maintain several [scikit-tda](https://docs.scikit-tda.org) packages — s
 ### Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#35](https://github.com/scikit-learn-contrib/scikit-dimension/issues/35) in [scikit-learn-contrib/scikit-dimension](https://github.com/scikit-learn-contrib/scikit-dimension)
-2. 🗣 Commented on [#1433](https://github.com/airspeed-velocity/asv/issues/1433#issuecomment-2603256774) in [airspeed-velocity/asv](https://github.com/airspeed-velocity/asv)
-3. 🗣 Commented on [#182](https://github.com/scikit-tda/ripser.py/issues/182#issuecomment-2564389734) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-4. 🗣 Commented on [#182](https://github.com/scikit-tda/ripser.py/issues/182#issuecomment-2558095623) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-5. 🗣 Commented on [#182](https://github.com/scikit-tda/ripser.py/issues/182#issuecomment-2557945257) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+1. ❌ Closed PR [#219](https://github.com/scikit-tda/ripser.py/pull/219) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+2. 🗣 Commented on [#219](https://github.com/scikit-tda/ripser.py/pull/219#issuecomment-3987347040) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+3. 🗣 Commented on [#209](https://github.com/scikit-tda/ripser.py/issues/209#issuecomment-3786722290) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+4. ❗ Opened issue [#6](https://github.com/Journey-Cloud/self-hosted-boilerplate/issues/6) in [Journey-Cloud/self-hosted-boilerplate](https://github.com/Journey-Cloud/self-hosted-boilerplate)
+5. 🎉 Merged PR [#91](https://github.com/scikit-tda/persim/pull/91) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
 <!--END_SECTION:activity-->
