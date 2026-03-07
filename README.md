@@ -51,9 +51,9 @@ I help maintain several [scikit-tda](https://docs.scikit-tda.org) packages — s
 ### Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#219](https://github.com/scikit-tda/ripser.py/pull/219) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-2. 🗣 Commented on [#219](https://github.com/scikit-tda/ripser.py/pull/219#issuecomment-3987347040) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-3. 🗣 Commented on [#209](https://github.com/scikit-tda/ripser.py/issues/209#issuecomment-3786722290) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-4. ❗ Opened issue [#6](https://github.com/Journey-Cloud/self-hosted-boilerplate/issues/6) in [Journey-Cloud/self-hosted-boilerplate](https://github.com/Journey-Cloud/self-hosted-boilerplate)
-5. 🎉 Merged PR [#91](https://github.com/scikit-tda/persim/pull/91) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+1. 🗣 Commented on [#266](https://github.com/scikit-tda/kepler-mapper/pull/266#issuecomment-4016506030) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
+2. ❌ Closed PR [#184](https://github.com/scikit-tda/ripser.py/pull/184) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+3. ❌ Closed PR [#220](https://github.com/scikit-tda/ripser.py/pull/220) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+4. 🗣 Commented on [#99](https://github.com/scikit-tda/persim/pull/99#issuecomment-4016423122) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+5. 🗣 Commented on [#99](https://github.com/scikit-tda/persim/pull/99#issuecomment-4016416381) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
 <!--END_SECTION:activity-->
