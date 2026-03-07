@@ -4,6 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-57A143?style=for-the-badge&logo=github&logoColor=white)](https://catanzaromj.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-catanzaro-a8335547)
+
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=catanzaromj&color=57A143&style=for-the-badge) -->
 
 </div>
@@ -12,11 +13,12 @@
 
 ### About me
 
-I am a Senior Scientist at [Geometric Data Analytics, Inc.](https://geomdata.com), where I do mathematical research and build software to prototype and support that research. My work sits at the intersection of **topology, geometry, and machine learning** — I use tools from topological data analysis (TDA) to study the shape of high-dimensional data and, increasingly, the internal geometry of neural networks.
+I am a Senior Scientist at [Geometric Data Analytics, Inc.](https://geomdata.com), where I do mathematical research and build software to prototype and support that research. My work sits at the intersection of **topology, geometry, and machine learning**.
+I use tools from topological data analysis (TDA) to study the shape of high-dimensional data and, increasingly, the internal geometry of neural networks.
 
 I am actively seeking roles in **ML Engineering**, **Software Engineering**, and **AI Safety** (mechanistic interpretability, formal verification / robustness, evals).
 
-I help maintain several [scikit-tda](https://docs.scikit-tda.org) packages — see the pinned repos below.
+I help maintain several [scikit-tda](https://docs.scikit-tda.org) packages—see the pinned repos below.
 
 #### Publications
 
