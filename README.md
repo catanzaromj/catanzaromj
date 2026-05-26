@@ -53,8 +53,8 @@ I help maintain several [scikit-tda](https://docs.scikit-tda.org) packages—see
 ### Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#226](https://github.com/scikit-tda/ripser.py/issues/226#issuecomment-4497882557) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-2. 🗣 Commented on [#49](https://github.com/scikit-tda/scikit-tda/pull/49#issuecomment-4177790529) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+1. 🗣 Commented on [#227](https://github.com/scikit-tda/ripser.py/pull/227#issuecomment-4543848048) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+2. 🗣 Commented on [#226](https://github.com/scikit-tda/ripser.py/issues/226#issuecomment-4497882557) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 3. 🗣 Commented on [#222](https://github.com/scikit-tda/ripser.py/pull/222#issuecomment-4177284284) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 4. 🗣 Commented on [#270](https://github.com/scikit-tda/kepler-mapper/pull/270#issuecomment-4016590435) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
 5. 🗣 Commented on [#271](https://github.com/scikit-tda/kepler-mapper/pull/271#issuecomment-4016585645) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
