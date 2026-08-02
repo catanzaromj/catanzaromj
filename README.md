@@ -49,10 +49,9 @@ I help maintain several [scikit-tda](https://docs.scikit-tda.org) packages—see
 ### Recent GitHub activity
 
 <!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#270](https://github.com/scikit-tda/kepler-mapper/pull/270#issuecomment-4016590435) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
-2. 🗣 Commented on [#271](https://github.com/scikit-tda/kepler-mapper/pull/271#issuecomment-4016585645) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
-3. 🗣 Commented on [#269](https://github.com/scikit-tda/kepler-mapper/pull/269#issuecomment-4016580423) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
-4. 🗣 Commented on [#266](https://github.com/scikit-tda/kepler-mapper/pull/266#issuecomment-4016506030) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
-5. ❌ Closed PR [#184](https://github.com/scikit-tda/ripser.py/pull/184) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+1. 🗣 Commented on [#41](https://github.com/scikit-tda/tadasets/pull/41#issuecomment-4757699295) in [scikit-tda/tadasets](https://github.com/scikit-tda/tadasets)
+2. 🔒 Closed issue [#137](https://github.com/scikit-tda/ripser.py/issues/137) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+3. 🚀 Published release [v0.6.15](https://github.com/scikit-tda/ripser.py/releases/tag/v0.6.15) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+4. 🗣 Commented on [#226](https://github.com/scikit-tda/ripser.py/issues/226#issuecomment-4546884626) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+5. 🔒 Closed issue [#226](https://github.com/scikit-tda/ripser.py/issues/226) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 <!--END_SECTION:activity-->
