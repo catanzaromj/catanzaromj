@@ -46,13 +46,10 @@ I help maintain several [scikit-tda](https://docs.scikit-tda.org) packages—see
 
 ---
 
-### Contribution activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=catanzaromj&theme=github-dark&hide_border=true)
-
 ### Recent GitHub activity
 
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#270](https://github.com/scikit-tda/kepler-mapper/pull/270#issuecomment-4016590435) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
 2. 🗣 Commented on [#271](https://github.com/scikit-tda/kepler-mapper/pull/271#issuecomment-4016585645) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
 3. 🗣 Commented on [#269](https://github.com/scikit-tda/kepler-mapper/pull/269#issuecomment-4016580423) in [scikit-tda/kepler-mapper](https://github.com/scikit-tda/kepler-mapper)
