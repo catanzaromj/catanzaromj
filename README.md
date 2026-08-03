@@ -49,9 +49,9 @@ I help maintain several [scikit-tda](https://docs.scikit-tda.org) packages—see
 ### Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/scikit-tda/ripser.py/pull/231#issuecomment-5159662894) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-2. 🔒 Closed issue [#137](https://github.com/scikit-tda/ripser.py/issues/137) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-3. 🚀 Published release [v0.6.15](https://github.com/scikit-tda/ripser.py/releases/tag/v0.6.15) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+1. 🎉 Merged PR [#55](https://github.com/scikit-tda/scikit-tda/pull/55) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+2. 💪 Opened PR [#55](https://github.com/scikit-tda/scikit-tda/pull/55) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+3. 🗣 Commented on [#231](https://github.com/scikit-tda/ripser.py/pull/231#issuecomment-5159662894) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 4. 🗣 Commented on [#226](https://github.com/scikit-tda/ripser.py/issues/226#issuecomment-4546884626) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 5. 🔒 Closed issue [#226](https://github.com/scikit-tda/ripser.py/issues/226) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 <!--END_SECTION:activity-->
