@@ -49,9 +49,9 @@ I help maintain several [scikit-tda](https://docs.scikit-tda.org) packages—see
 ### Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/scikit-tda/scikit-tda/pull/55) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-2. 💪 Opened PR [#55](https://github.com/scikit-tda/scikit-tda/pull/55) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-3. 🗣 Commented on [#231](https://github.com/scikit-tda/ripser.py/pull/231#issuecomment-5159662894) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-4. 🗣 Commented on [#226](https://github.com/scikit-tda/ripser.py/issues/226#issuecomment-4546884626) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
-5. 🔒 Closed issue [#226](https://github.com/scikit-tda/ripser.py/issues/226) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
+1. 🗣 Commented on [#106](https://github.com/scikit-tda/persim/issues/106#issuecomment-5232759831) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+2. 🗣 Commented on [#105](https://github.com/scikit-tda/persim/issues/105#issuecomment-5232755722) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+3. 🎉 Merged PR [#55](https://github.com/scikit-tda/scikit-tda/pull/55) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+4. 💪 Opened PR [#55](https://github.com/scikit-tda/scikit-tda/pull/55) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+5. 🗣 Commented on [#231](https://github.com/scikit-tda/ripser.py/pull/231#issuecomment-5159662894) in [scikit-tda/ripser.py](https://github.com/scikit-tda/ripser.py)
 <!--END_SECTION:activity-->
