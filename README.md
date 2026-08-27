@@ -49,9 +49,9 @@ I help maintain several [scikit-tda](https://docs.scikit-tda.org) packages—see
 ### Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108](https://github.com/scikit-tda/persim/pull/108#issuecomment-5430011692) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
-2. 🗣 Commented on [#106](https://github.com/scikit-tda/persim/issues/106#issuecomment-5232759831) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
-3. 🗣 Commented on [#105](https://github.com/scikit-tda/persim/issues/105#issuecomment-5232755722) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
-4. 🎉 Merged PR [#55](https://github.com/scikit-tda/scikit-tda/pull/55) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
-5. 💪 Opened PR [#55](https://github.com/scikit-tda/scikit-tda/pull/55) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
+1. 🔒 Closed issue [#106](https://github.com/scikit-tda/persim/issues/106) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+2. 🗣 Commented on [#108](https://github.com/scikit-tda/persim/pull/108#issuecomment-5430011692) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+3. 🗣 Commented on [#106](https://github.com/scikit-tda/persim/issues/106#issuecomment-5232759831) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+4. 🗣 Commented on [#105](https://github.com/scikit-tda/persim/issues/105#issuecomment-5232755722) in [scikit-tda/persim](https://github.com/scikit-tda/persim)
+5. 🎉 Merged PR [#55](https://github.com/scikit-tda/scikit-tda/pull/55) in [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda)
 <!--END_SECTION:activity-->
